@@ -2,7 +2,7 @@ cask "cork" do
     version "0.1.1"
     sha256 :no_check
   
-    url "https://corkmac.app/RLS/#{version}.app"
+    url "https://corkmac.app/RLS/#{version}/Cork.app"
     name "Cork"
     desc "The Homebrew GUI"
     homepage "https://www.corkmac.app"
