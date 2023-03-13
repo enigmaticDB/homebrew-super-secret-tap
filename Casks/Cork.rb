@@ -11,6 +11,4 @@ cask "cork" do
     depends_on macos: ">= :ventura"
   
     app "Cork.app"
-
-    uninstall quit: "com.davidbures.Cork"
 end
