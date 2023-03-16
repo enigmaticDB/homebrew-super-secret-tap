@@ -7,7 +7,7 @@ cask "cork" do
     desc "The Homebrew GUI"
     homepage "https://www.corkmac.app"
   
-    auto_updates true
+    auto_updates false
     depends_on macos: ">= :ventura"
   
     app "Cork.app"
