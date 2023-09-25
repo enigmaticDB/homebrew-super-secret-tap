@@ -1,5 +1,5 @@
 cask "cork" do
-    version "1.2"
+    version "1.2.1"
     sha256 :no_check
   
     url "https://corkmac.app/RLS/#{version}/Cork.zip"
